@@ -1,4 +1,4 @@
-module github.com/moson-mo/mnserver
+module github.com/y5/mnserver
 
 go 1.15
 

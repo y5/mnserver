@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 
-	"github.com/moson-mo/mnserver/server"
+	"github.com/y5/mnserver/server"
 )
 
 func main() {
